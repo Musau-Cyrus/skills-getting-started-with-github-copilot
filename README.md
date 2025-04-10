@@ -1,4 +1,16 @@
-# Getting Started with GitHub Copilot
+<img src=https://octodex.github.com/images/welcometocat.png align=right height=250px />
+
+⭐️ Congratulations Musau-Cyrus! ⭐️
+
+You completed this exercise! Nice work! 🥳
+
+If you would like to practice again, you can retrace your steps below. Just press the **Start Exercise** button again.
+
+> [!TIP]
+> Mona won't grade you this time! 😉
+
+
+ # Getting Started with GitHub Copilot
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
@@ -15,4 +27,3 @@ Remember, it's self-paced so feel fee to take a break! ☕️
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
